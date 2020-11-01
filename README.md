@@ -3,7 +3,7 @@ Where all kind of non-sense stuff will possibly happen. But you know... She'll b
 
 Are you keen to join us?
 
-[] Yup!
-[] Nah, I'm good.
+- [ ] Yup!
+- [ ] Nah, I'm good.
 
-Choice as, bro!
+Choice as!
