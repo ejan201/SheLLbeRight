@@ -7,3 +7,10 @@ Are you keen to join us?
 - [ ] Nah, I'm good.
 
 Choice as!
+
+
+Are you happy with Eduardos actions?
+- [ ] Yes sir!
+
+- [ ] Hell no!
+
