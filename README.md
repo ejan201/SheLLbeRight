@@ -12,7 +12,7 @@ Choice as!
 Are you happy with Eduardos actions?
 - [ ] Yes sir!
 
-- [ ] Hell no!
+- [✔] Hell no!
 
 Do you like the options given
 - [ ] Yup
