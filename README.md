@@ -14,3 +14,6 @@ Are you happy with Eduardos actions?
 
 - [ ] Hell no!
 
+Do you like the options given
+- [ ] Yup
+- [ ] Na
