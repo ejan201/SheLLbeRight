@@ -11,7 +11,6 @@ Choice as!
 
 Are you happy with Eduardos actions?
 - [ ] Yes sir!
-
 - [ ] Hell no!
 
 Do you like the options given
